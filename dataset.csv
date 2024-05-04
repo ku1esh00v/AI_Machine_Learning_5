@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Russia,65,31000,Yes
+France,39,26000,No
+UK,35,34000,No
+USA,45,51000,No
+UK,37,,Yes
+France,,49000,Yes
+USA,47,52000,Yes
+France,48,63000,Yes
+UK,45,89000,No
+France,39,65000,No
